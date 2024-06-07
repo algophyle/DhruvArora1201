@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DhruvArora1201
-- 👀 I’m interested in Designing, Research and Computation
-- 🌱 I’m currently exploring MATLAB
-- 💞️ I’m looking to collaborate on Numerical Computation, Aerodynamics and FEA Simulation
+- 👋 Hi, I’m @algophyle  
+- 👀 I'm working as a Stress & Automation Engineer
+- 🌱 Currently looking to work with the intersection of Aerospace and Computer Science
+- 💞️ Exploring the capabilities of MLops and AI along with Algorithm Development
 - 📫 How to reach me 
 - LinkedIn - https://www.linkedin.com/in/dhruv-arora-7a785a159/
 - Phone - +91 9873036818 
