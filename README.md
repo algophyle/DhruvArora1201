@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @algophyle  
-- 👀 I'm working as a Stress & Automation Engineer
+- 👀 I'm working as an Automation Engineer
 - 🌱 Currently looking to work with the intersection of Aerospace and Computer Science
 - 💞️ Exploring the capabilities of ML and AI along with Algorithm Development
 - 📫 How to reach me 
